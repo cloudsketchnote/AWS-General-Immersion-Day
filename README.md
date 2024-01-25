@@ -1,19 +1,15 @@
 - Amazon EC2  provides scalable computing capacity in the Amazon Web Services (AWS) Cloud. 
 - Amazon EC2 enables you to scale up or down to handle changes in requirements, reducing your need to forecast traffic.
 
----------------------------------------------------------------------------------------------------------------------------------------------
-# Create a new key pair
 ![image](https://github.com/cloudsketchnote/AWS-General-Immersion-Day/assets/89719597/99fb72f2-d7b1-42dc-937b-6b12dd915510)
 
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-# Launch a Web Server Instance
+# Create a new key pair
 
 ![image](https://github.com/cloudsketchnote/AWS-General-Immersion-Day/assets/89719597/fd4a5116-852c-4ac8-926d-f4d5e1cb8cea)
 
 p/s use the key pair you just created to manage your EC2 instances for the rest of the lab
 
-Launch a Web Server Instance
+# Launch a Web Server Instance
 
 - Amazon Linux
 
