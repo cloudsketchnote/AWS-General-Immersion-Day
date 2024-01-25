@@ -19,11 +19,11 @@ p/s use the key pair you just created to manage your EC2 instances for the rest 
 
 2) Launch a Web Server Instance
 
--Amazon Linux
+- Amazon Linux
 
--Instance type, t2.micro
+- Instance type, t2.micro
 
--Create new SG
+- Create new SG
 
 - Allow traffic from "My IP"
 
