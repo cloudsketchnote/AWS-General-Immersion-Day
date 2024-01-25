@@ -19,10 +19,9 @@ p/s use the key pair you just created to manage your EC2 instances for the rest 
 - Type: HTTP
 - allow TCP/80 for Web Service by specifying it. Select My IP in the source
 
-![image](https://github.com/cloudsketchnote/AWS-General-Immersion-Day/assets/89719597/196651ed-cfd8-4d33-9d31-d0482bbc5447)
-
 ![image](https://github.com/cloudsketchnote/AWS-Learning-Path/assets/89719597/2a6a42ee-92ba-4e49-9099-bf4963d32320)
 
+![image](https://github.com/cloudsketchnote/AWS-General-Immersion-Day/assets/89719597/196651ed-cfd8-4d33-9d31-d0482bbc5447)
 
 - When click public IPv4 DNS, instance information is shown
 
