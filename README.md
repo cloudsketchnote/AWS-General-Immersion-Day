@@ -5,7 +5,7 @@
 # Create a new key pair
 ![image](https://github.com/cloudsketchnote/AWS-General-Immersion-Day/assets/89719597/99fb72f2-d7b1-42dc-937b-6b12dd915510)
 
-Create your own web server by going through the labs in the order below:
+----------------------------------------------------------------------------------------------------------------------------------------------
 
 # Launch a Web Server Instance
 
@@ -13,7 +13,7 @@ Create your own web server by going through the labs in the order below:
 
 p/s use the key pair you just created to manage your EC2 instances for the rest of the lab
 
-2) Launch a Web Server Instance
+Launch a Web Server Instance
 
 - Amazon Linux
 
@@ -28,6 +28,8 @@ p/s use the key pair you just created to manage your EC2 instances for the rest 
 When click public IPv4 DNS, instance information is shown
 
 ![image](https://github.com/cloudsketchnote/AWS-General-Immersion-Day/assets/89719597/9bb01be7-9f41-4079-917d-dd2f1fdc29ef)
+
+-------------------------------------------------------------------------------------------------------------------
 
 # Connect to your linux instance
 
