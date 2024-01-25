@@ -1,21 +1,19 @@
-# AWS-General-Immersion-Day
-a mix of service explanation and hands-on labs led by AWS, you will learn about AWS foundational services as well as key concepts for AWS security measures and architecture best practices
-
+#Getting started with AWS account
+--------------------------------------------------------------------------------------------
 ID: 340067136360
 
-1) Create root account if you dont have one
-2) 
+- Create root account if you dont have one
+    
 ![image](https://github.com/cloudsketchnote/AWS-General-Immersion-Day/assets/89719597/fb53bf9a-7fac-46a6-a729-1dc75bbaeb03)
 
-3) Making change using root acc is not advisable, so need to create IAM User with "Administrator" role.
+- Making change using root acc is not advisable, so need to create IAM User with "Administrator" role.
    
 ![image](https://github.com/cloudsketchnote/AWS-General-Immersion-Day/assets/89719597/a81e2c88-cfe8-4006-820b-75a79ec84c31)
 
-4)Set permission, review policy, example:-
+- Set permission, review policy, example:-
 ![image](https://github.com/cloudsketchnote/AWS-General-Immersion-Day/assets/89719597/dacb3a71-e11d-400e-9229-4b61a9fe4835)
 
-5)
-Dashboard from IAM user perspective
+- Dashboard from IAM user perspective
 ![image](https://github.com/cloudsketchnote/AWS-General-Immersion-Day/assets/89719597/e2931489-1006-4b83-a9a6-577bc002cb53)
 
 
