@@ -6,4 +6,5 @@ a mix of service explanation and hands-on labs led by AWS, you will learn about 
 ![image](https://github.com/cloudsketchnote/AWS-General-Immersion-Day/assets/89719597/fb53bf9a-7fac-46a6-a729-1dc75bbaeb03)
 
 2) Making change using root acc is not advisabe, so need to create IAM User with "Administrator" role.
-![](https://github.com/cloudsketchnote/AWS-General-Immersion-Day/assets/89719597/fd84f950-c861-4583-b200-04a1a61deee3 = 250x250)
+<img src="https://github.com/cloudsketchnote/AWS-General-Immersion-Day/assets/89719597/b8db7c26-b51a-4579-9d73-cd2055c5f385
+" width="200" height="400" />
