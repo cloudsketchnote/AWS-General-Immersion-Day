@@ -7,7 +7,8 @@
 
 - create an EC2 instance using an SSH keypair
 
-![image](https://github.com/cloudsketchnote/AWS-General-Immersion-Day/assets/89719597/fd4a5116-852c-4ac8-926d-f4d5e1cb8cea)
+![image](https://github.com/cloudsketchnote/AWS-Learning-Path/assets/89719597/4b399dc6-ebb9-4a36-a35a-2df3460d923c)
+
 
 p/s use the key pair you just created to manage your EC2 instances for the rest of the lab
 
