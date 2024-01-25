@@ -16,7 +16,6 @@ Create your own web server by going through the labs in the order below:
 
 p/s use the key pair you just created to manage your EC2 instances for the rest of the lab
 
-
 2) Launch a Web Server Instance
 
 - Amazon Linux
