@@ -1,14 +1,14 @@
 # AWS - Basic instances setup and configuration
 
-1
+1 Login using root user account
 
-#Login using root user account
-#Create IAM user (for safety)
-#review user policy
+Create IAM user (for safety)
 
-2
+review user policy
 
-#Create a new key pair
-#Launch a Web Server Instance
-#Connect to your linux instance
+2 Create a new key pair
+
+Launch a Web Server Instance
+
+Connect to your linux instance
 
