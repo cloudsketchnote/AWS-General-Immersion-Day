@@ -4,6 +4,7 @@ a mix of service explanation and hands-on labs led by AWS, you will learn about 
 ID: 340067136360
 
 1) This is root account
+
 ![image](https://github.com/cloudsketchnote/AWS-General-Immersion-Day/assets/89719597/fb53bf9a-7fac-46a6-a729-1dc75bbaeb03)
 
 2) Making change using root acc is not advisable, so need to create IAM User with "Administrator" role.
