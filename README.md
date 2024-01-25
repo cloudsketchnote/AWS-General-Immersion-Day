@@ -8,13 +8,13 @@ ID: 340067136360
 ![image](https://github.com/cloudsketchnote/AWS-General-Immersion-Day/assets/89719597/fb53bf9a-7fac-46a6-a729-1dc75bbaeb03)
 
 3) Making change using root acc is not advisable, so need to create IAM User with "Administrator" role.
-4) 
+   
 ![image](https://github.com/cloudsketchnote/AWS-General-Immersion-Day/assets/89719597/a81e2c88-cfe8-4006-820b-75a79ec84c31)
 
-3)Set permission, review policy, example:-
+4)Set permission, review policy, example:-
 ![image](https://github.com/cloudsketchnote/AWS-General-Immersion-Day/assets/89719597/dacb3a71-e11d-400e-9229-4b61a9fe4835)
 
-
+5)
 Dashboard from IAM user perspective
 ![image](https://github.com/cloudsketchnote/AWS-General-Immersion-Day/assets/89719597/e2931489-1006-4b83-a9a6-577bc002cb53)
 
