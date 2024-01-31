@@ -10,7 +10,7 @@
 ![image](https://github.com/cloudsketchnote/AWS-Learning-Path/assets/89719597/4b399dc6-ebb9-4a36-a35a-2df3460d923c)
 
 
-p/s use the key pair you just created to manage your EC2 instances for the rest of the lab
+p/s NEED TO TURN OFF POP BLOCKER TO DOWNLOAD ENCRYPTED PEM FILE
 
 # Launch a Web Server Instance
 
