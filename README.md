@@ -3,7 +3,7 @@
 
 ![image](https://github.com/cloudsketchnote/AWS-General-Immersion-Day/assets/89719597/99fb72f2-d7b1-42dc-937b-6b12dd915510)
 
-# Create a new key pair
+# 1) Create a new key pair
 
 - create an EC2 instance using an SSH keypair
 
@@ -12,25 +12,32 @@
 
 p/s NEED TO TURN OFF POP BLOCKER TO DOWNLOAD ENCRYPTED PEM FILE
 
-# Launch a Web Server Instance
+# 2) Launch a Web Server Instance
 
-- Amazon Linux
-- Instance type, t2.micro
-- Create new SG
-- Type: HTTP
-- allow TCP/80 for Web Service by specifying it. Select My IP in the source
+![image](https://github.com/cloudsketchnote/AWS-Learning-Path/assets/89719597/81e5caa2-2b29-4722-9b33-2f37319303da)
 
-![image](https://github.com/cloudsketchnote/AWS-Learning-Path/assets/89719597/2a6a42ee-92ba-4e49-9099-bf4963d32320)
+- AMI: Windows, Window Server 2019 Base
+- Instance type, t2.medium
+- Use previous key pair
 
-![image](https://github.com/cloudsketchnote/AWS-General-Immersion-Day/assets/89719597/196651ed-cfd8-4d33-9d31-d0482bbc5447)
+![image](https://github.com/cloudsketchnote/AWS-Learning-Path/assets/89719597/489f96de-d194-4fea-a939-daf76ace06e2)
 
-- When click public IPv4 DNS, instance information is shown
+  
+- Network Setting:- configure the security group to Allow RDP and HTTP from the internet
 
-![image](https://github.com/cloudsketchnote/AWS-General-Immersion-Day/assets/89719597/9bb01be7-9f41-4079-917d-dd2f1fdc29ef)
+![image](https://github.com/cloudsketchnote/AWS-Learning-Path/assets/89719597/c3cd9627-8d97-45f5-8dd2-e1483eca7956)
 
--------------------------------------------------------------------------------------------------------------------
 
-# Connect to your linux instance
+# 3) Connect to EC2 Instance
+
+![image](https://github.com/cloudsketchnote/AWS-Learning-Path/assets/89719597/a5e4aedb-d4f3-4809-b876-0990a714a7ac)
+
+- Remote desktop connection to instances
+
+![image](https://github.com/cloudsketchnote/AWS-Learning-Path/assets/89719597/bc5d7b3c-4281-4f88-9048-c916135d1f8f)
+
+
+
 
 
 
