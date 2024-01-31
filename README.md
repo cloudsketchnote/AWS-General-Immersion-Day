@@ -34,7 +34,8 @@ p/s NEED TO TURN OFF POP BLOCKER TO DOWNLOAD ENCRYPTED PEM FILE
 
 - Remote desktop connection to instances
 
-![image](https://github.com/cloudsketchnote/AWS-Learning-Path/assets/89719597/bc5d7b3c-4281-4f88-9048-c916135d1f8f)
+![image](https://github.com/cloudsketchnote/AWS-Learning-Path/assets/89719597/8c6405d4-4f97-461b-a016-149e21713053)
+
 
 
 
