@@ -1,18 +1,8 @@
-# AWS - Basic instances setup and configuration
+Amazon API Gateway 
 
-------------------------------------------------------------------------------------------------------------
+- API is a "front door" for application to access data
+- By using this, you can create RESTful APIs, HTTP APIs or WebSocket APIs
+- These enable real-time two-way communication applications
+- API Gateway has no minimum fees or startup costs
 
-Login using root user account
-
-Create IAM user (for safety)
-
-review user policy
-
-------------------------------------------------------------------------------------------------------------
-
-Create a new key pair
-
-Launch a Web Server Instance
-
-Connect to your linux instance
 
