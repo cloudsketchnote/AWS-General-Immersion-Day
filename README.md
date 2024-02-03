@@ -1,18 +1,18 @@
-# AWS - Basic instances setup and configuration
+# What is IAM?
 
-------------------------------------------------------------------------------------------------------------
+- helps to secure control access to AWS resources.
+- centrally manage permissions that control which AWS resources users can access.
 
-Login using root user account
+# 1)Launch EC2 Instances with Tags
 
-Create IAM user (for safety)
+![image](https://github.com/cloudsketchnote/AWS-Learning-Path/assets/89719597/356e5f56-c780-494f-a34f-773adb010fb0)
 
-review user policy
+![image](https://github.com/cloudsketchnote/AWS-Learning-Path/assets/89719597/1ae752f3-1201-4494-ad91-a2613aa71992)
 
-------------------------------------------------------------------------------------------------------------
+![image](https://github.com/cloudsketchnote/AWS-Learning-Path/assets/89719597/3f1c6e12-a3b8-4f87-a546-aa0ef32aff26)
 
-Create a new key pair
 
-Launch a Web Server Instance
 
-Connect to your linux instance
+
+
 
